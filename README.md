@@ -1,1 +1,1 @@
-# Exerc-cios---Data-Structure-and-Algorithms
+# Exercicios-Data-Structure-and-Algorithms
